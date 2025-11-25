@@ -7,11 +7,12 @@ Hi! I'm Yousef Gaber, a computer science student passionate about building and u
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yousefgaber015@gmail.com) 
 
 
-## 🏆 Competitive Programming Profiles:
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Yousef_Gaber11)
-[![AtCoder](https://img.shields.io/badge/AtCoder-2EC866?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Yousef_Gaber11)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/yousefgaber015)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/yousefgaber_11)
+## 🏆 Competitive Programming:
+[![Codeforces](https://img.shields.io/badge/Codeforces-blue?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Yousef_Gaber11)
+[![AtCoder](https://img.shields.io/badge/AtCoder-green?logo=atcoder&logoColor=white)](https://atcoder.jp/users/Yousef_Gaber11)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/yousefgaber015)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/yousefgaber_11)
+
 
 
 # 💻 Tech Stack:

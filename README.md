@@ -8,10 +8,22 @@ Hi! I'm Yousef Gaber, a computer science student passionate about building and u
 
 
 ## 🏆 Competitive Programming:
-<a href="https://codeforces.com/profile/Yousef_Gaber11"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"></a>
-<a href="https://atcoder.jp/users/Yousef_Gaber11"><img src="https://img.shields.io/badge/-AtCoder-2EC866?style=flat-square&logo=atcoder&logoColor=white"></a>
-<a href="https://www.hackerrank.com/profile/yousefgaber015"><img src="https://img.shields.io/badge/-HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white"></a>
-<a href="https://www.codechef.com/users/yousefgaber_11"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white"></a>
+
+<a href="https://codeforces.com/profile/Yousef_Gaber11">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
+</a>
+<a href="https://atcoder.jp/users/Yousef_Gaber11">
+  <img src="https://img.shields.io/badge/AtCoder-2EC866?style=flat-square&logo=atcoder&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/Yousef_Gaber11/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://www.hackerrank.com/profile/yousefgaber015">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white" />
+</a>
+<a href="https://www.codechef.com/users/yousefgaber_11">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" />
+</a>
 
 
 # 💻 Tech Stack:

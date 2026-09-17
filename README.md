@@ -82,7 +82,7 @@ Frontend Software Engineer and Computer Science graduate combining strong algori
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Yousef-Gaber11&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&include_all_commits=true" alt="Yousef's GitHub Stats" />
+  <img src="https://github-readme-stats.iran.liara.run/api?username=Yousef-Gaber11&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="Yousef's GitHub Stats" />
 
   <br/><br/>
 
@@ -90,7 +90,7 @@ Frontend Software Engineer and Computer Science graduate combining strong algori
 
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousef-Gaber11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.iran.liara.run/api/top-langs/?username=Yousef-Gaber11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 

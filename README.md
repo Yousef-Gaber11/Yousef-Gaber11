@@ -78,17 +78,23 @@ Frontend Software Engineer and Computer Science graduate combining strong algori
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Analytics:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yousef-Gaber11&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false" height="195" alt="GitHub Stats"/><br/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Yousef-Gaber11&theme=shadow_blue&hide_border=false" alt="GitHub Streak"/><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousef-Gaber11&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="195" alt="Top Languages"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Yousef-Gaber11&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&include_all_commits=true" alt="Yousef's GitHub Stats" width="48%"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yousef-Gaber11&theme=tokyonight&hide_border=true&ring=7aa2f7&fire=7aa2f7&currStreakNum=7aa2f7" alt="GitHub Streak" width="48%"/>
+
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousef-Gaber11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%"/>
+
 </div>
 
 ---
 
 <div align="center">
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=25&fontAlignY=60" width="100%" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=25&fontAlignY=75" width="100%" alt="Footer"/>
 </div>

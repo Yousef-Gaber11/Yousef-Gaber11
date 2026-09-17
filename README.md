@@ -2,59 +2,93 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=I'm%20Yousef%20Gaber&fontSize=40&fontAlignY=35&desc=What's%20Up%20%F0%9F%91%8B&descAlignY=55&descSize=20&animation=fadeIn" alt="Header" />
 </div>
 
+<div align="center">
 
-# 💫 About Me:
-Hi! I'm Yousef Gaber, a computer science student passionate about building and understanding systems that solve real-world problems.<br><br>My main focus is on:<br><br>🌐 Web Development - Learning and building front-end and back-end projects<br><br>🧠 Computer Science Fundamentals - Data structures, algorithms, and core concepts<br><br>🏆 Competitive Programming - Improving logic, speed, and code efficiency<br><br>🔍 Problem Solving - Practicing algorithmic thinking and tackling challenges<br><br>I enjoy learning new technologies, writing clean code, and developing myself to become an outstanding software engineer.
+🏆 **Frontend Software Engineer** | 🎓 **CS @ Suez Canal University**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-gaber)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousefgaber015@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201091041429)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-gaber)
- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yousefgaber015@gmail.com) 
+</div>
 
+---
 
-## 🏆 Competitive Programming:
+## 👨‍💻 About Me:
 
-<a href="https://codeforces.com/profile/Yousef_Gaber11">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
-</a>
-<a href="https://atcoder.jp/users/Yousef_Gaber11">
-  <img src="https://img.shields.io/badge/AtCoder-2EC866?style=flat-square&logo=atcoder&logoColor=white" />
-</a>
-<a href="https://leetcode.com/u/Yousef_Gaber11/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
-</a>
-<a href="https://www.hackerrank.com/profile/yousefgaber015">
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white" />
-</a>
-<a href="https://www.codechef.com/users/yousefgaber_11">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" />
-</a>
+Frontend Software Engineer and Computer Science graduate combining strong algorithmic precision from competitive programming with modern web technologies. Specialized in building responsive, scalable, and user-centric web applications[cite: 2]. Seeking to leverage problem-solving expertise and technical skills to contribute to innovative frontend projects[cite: 2].
 
+- 🌐 **Web Development:** Building modern, responsive front-end applications using React, Next.js, Tailwind CSS, and JavaScript.
+- 🧠 **Computer Science Fundamentals:** Strong foundation in OOP, Data Structures, Algorithms, and Core Concepts.
+- 🏆 **Competitive Programming:** Translating high problem-solving efficiency and algorithmic logic into clean, optimized code.
+- 🔍 **Problem Solving:** Passionate about tackling complex challenges and writing high-performance software.
 
-# 💻 Tech Stack:
+---
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## 🚀 Competitive Programming Achievements:
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yousef-Gaber11&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Yousef-Gaber11&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yousef-Gaber11&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
 
+| Profile | Achievement |
+| :---: | :---: |
+| [![Codeforces](https://img.shields.io/badge/Codeforces-@Yousef__Gaber11-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=2E3440)](https://codeforces.com/profile/Yousef_Gaber11) | ![Specialist](https://img.shields.io/badge/Specialist-1414-316192?style=for-the-badge&labelColor=2F3640) |
+| [![AtCoder](https://img.shields.io/badge/AtCoder-@Yousef__Gaber11-222222?style=for-the-badge&logo=atcoder&logoColor=white&labelColor=1E1E1E)](https://atcoder.jp/users/Yousef_Gaber11) | ![Green 5 Kyu](https://img.shields.io/badge/5_Kyu_(Green)-1071-2EC866?style=for-the-badge&labelColor=2F3640) |
+| [![LeetCode](https://img.shields.io/badge/LeetCode-@Yousef__Gaber11-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=2D2D2D)](https://leetcode.com/u/Yousef_Gaber11/) | ![Top 19.9%](https://img.shields.io/badge/Top_19.9%25-Rating_1617-orange?style=for-the-badge&labelColor=2F3640) |
+| [![HackerRank](https://img.shields.io/badge/HackerRank-@yousefgaber015-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1F2A1F)](https://www.hackerrank.com/profile/yousefgaber015) | ![Gold](https://img.shields.io/badge/Gold-C%2FC%2B%2B_%26_Problem_Solving-gold?style=for-the-badge&labelColor=2F3640) |
 
+</div>
+
+---
+
+## 🛠️ Tech Stack & Tools:
+
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-0078D4?style=flat-square&logo=cplusplus&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="24" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="24" />
+</p>
+
+### 🌐 Frontend & Web Technologies
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="24" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/PIXI.js-FF0000?style=flat-square" height="24" />
+</p>
+
+### 🛠️ Tools & Workflow
+<p>
+  <img src="https://img.shields.io/badge/Git-F97316?style=flat-square&logo=git&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/GitHub-475569?style=flat-square&logo=github&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2563EB?style=flat-square&logo=githubactions&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" height="24" />
+</p>
+
+### 🧠 Core Skills
+<p>
+  <img src="https://img.shields.io/badge/OOP-0284C7?style=flat-square" height="24" />
+  <img src="https://img.shields.io/badge/Algorithms-10B981?style=flat-square" height="24" />
+  <img src="https://img.shields.io/badge/Data%20Structures-0891B2?style=flat-square" height="24" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-EAB308?style=flat-square" height="24" />
+</p>
+
+---
+
+## 📊 GitHub Stats:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yousef-Gaber11&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false" height="195" alt="GitHub Stats"/><br/><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Yousef-Gaber11&theme=shadow_blue&hide_border=false" alt="GitHub Streak"/><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousef-Gaber11&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="195" alt="Top Languages"/>
+</div>
+
+---
 
 <div align="center">
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=25&fontAlignY=65" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=25&fontAlignY=60" width="100%" alt="Footer"/>
 </div>

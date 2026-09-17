@@ -56,5 +56,5 @@ Hi! I'm Yousef Gaber, a computer science student passionate about building and u
 
 <div align="center">
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=25&fontAlignY=50" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=25&fontAlignY=50" alt="Footer"/>
 </div>

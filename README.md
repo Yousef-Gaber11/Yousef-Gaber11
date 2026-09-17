@@ -4,7 +4,7 @@
 
 <div align="center">
 
-🏆 **Frontend Software Engineer** | 🎓 **CS @ Suez Canal University**
+🏆 **Frontend Software Engineer** | 🎓 [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) @ Suez Canal University
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-gaber)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousefgaber015@gmail.com)
@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me:
 
-Frontend Software Engineer and Computer Science graduate combining strong algorithmic precision from competitive programming with modern web technologies. Specialized in building responsive, scalable, and user-centric web applications[cite: 2]. Seeking to leverage problem-solving expertise and technical skills to contribute to innovative frontend projects[cite: 2].
+Frontend Software Engineer and Computer Science graduate combining strong algorithmic precision from competitive programming with modern web technologies. Specialized in building responsive, scalable, and user-centric web applications. Seeking to leverage problem-solving expertise and technical skills to contribute to innovative frontend projects.
 
 - 🌐 **Web Development:** Building modern, responsive front-end applications using React, Next.js, Tailwind CSS, and JavaScript.
 - 🧠 **Computer Science Fundamentals:** Strong foundation in OOP, Data Structures, Algorithms, and Core Concepts.

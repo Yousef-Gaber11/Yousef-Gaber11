@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=I'm%20Yousef%20Gaber&fontSize=40&fontAlignY=35&desc=What's%20Up%20%F0%9F%91%8B&descAlignY=55&descSize=20&animation=fadeIn" alt="Header" />
+</div>
+
+
 # 💫 About Me:
 Hi! I'm Yousef Gaber, a computer science student passionate about building and understanding systems that solve real-world problems.<br><br>My main focus is on:<br><br>🌐 Web Development - Learning and building front-end and back-end projects<br><br>🧠 Computer Science Fundamentals - Data structures, algorithms, and core concepts<br><br>🏆 Competitive Programming - Improving logic, speed, and code efficiency<br><br>🔍 Problem Solving - Practicing algorithmic thinking and tackling challenges<br><br>I enjoy learning new technologies, writing clean code, and developing myself to become an outstanding software engineer.
 
@@ -47,7 +52,9 @@ Hi! I'm Yousef Gaber, a computer science student passionate about building and u
 ![](https://nirzak-streak-stats.vercel.app/?user=Yousef-Gaber11&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yousef-Gaber11&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Yousef-Gaber11&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div align="center">
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=25&fontAlignY=50" alt="Footer"/>
+</div>
